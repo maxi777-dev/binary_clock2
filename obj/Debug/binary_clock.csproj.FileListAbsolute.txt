@@ -1,0 +1,9 @@
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\bin\Debug\binary_clock.exe.config
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\bin\Debug\binary_clock.exe
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\bin\Debug\binary_clock.pdb
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.csprojAssemblyReference.cache
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.Form1.resources
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.Properties.Resources.resources
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.csproj.GenerateResource.cache
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.exe
+C:\Users\wiueqoisajkd\Source\Repos\binary_clock\binary_clock\obj\Debug\binary_clock.pdb
